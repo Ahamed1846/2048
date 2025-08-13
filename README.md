@@ -17,12 +17,6 @@ A classic 2048 puzzle game built using **HTML**, **CSS**, and **JavaScript** —
 
 ---
 
-## 🚀 Live Demo
-
-_Coming soon..._  
-
----
-
 ## 📁 Project Structure
 
 ```plaintext
@@ -31,3 +25,8 @@ _Coming soon..._
 ├── styles.css        # Styling for grid and tiles
 ├── script.js         # Core game logic (tile movement, merging, scoring)
 └── README.md         # This file
+
+---
+
+Deployment Link: 
+[Live Link](https://ahamed1846.github.io/2048/)
